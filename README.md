@@ -1,0 +1,2 @@
+# Isaac_sim_ralated_work
+这个仓库用来记录一些Isaac_sim与Isaac_lab环境的的配置与机器人加载和控制的相关内容
